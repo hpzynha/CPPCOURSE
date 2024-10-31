@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dev.lari/Development/cpp-workdir/ChatChalange/chalange1/main'
+relocations:     []
+...
